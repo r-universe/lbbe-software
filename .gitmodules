@@ -5,3 +5,6 @@
 [submodule "Mondrian"]
 	path = Mondrian
 	url = https://github.com/lbbe-software/mondrian
+[submodule "rbioacc"]
+	path = rbioacc
+	url = https://github.com/lbbe-software/rbioacc

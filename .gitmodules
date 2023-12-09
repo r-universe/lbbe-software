@@ -8,3 +8,6 @@
 [submodule "rbioacc"]
 	path = rbioacc
 	url = https://github.com/lbbe-software/rbioacc
+[submodule "seqinr"]
+	path = seqinr
+	url = https://github.com/lbbe-software/seqinr

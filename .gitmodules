@@ -17,6 +17,12 @@
 [submodule "kissDE"]
 	path = kissDE
 	url = https://github.com/lbbe-software/kissde
+[submodule "nlsMicrobio"]
+	path = nlsMicrobio
+	url = https://github.com/lbbe-software/nlsmicrobio
+[submodule "nlstools"]
+	path = nlstools
+	url = https://github.com/lbbe-software/nlstools
 [submodule "rbioacc"]
 	path = rbioacc
 	url = https://github.com/lbbe-software/rbioacc

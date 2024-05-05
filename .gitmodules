@@ -14,9 +14,6 @@
 [submodule "fitdistrplus"]
 	path = fitdistrplus
 	url = https://github.com/lbbe-software/fitdistrplus
-[submodule "kissDE"]
-	path = kissDE
-	url = https://github.com/lbbe-software/kissde
 [submodule "nlsMicrobio"]
 	path = nlsMicrobio
 	url = https://github.com/lbbe-software/nlsmicrobio

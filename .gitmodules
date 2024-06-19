@@ -2,6 +2,9 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
+[submodule "DRomics"]
+	path = DRomics
+	url = https://github.com/lbbe-software/dromics
 [submodule "Interatrix"]
 	path = Interatrix
 	url = https://github.com/lbbe-software/interatrix

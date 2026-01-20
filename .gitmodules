@@ -14,6 +14,9 @@
 [submodule "Mondrian"]
 	path = Mondrian
 	url = https://github.com/lbbe-software/mondrian
+[submodule "aods3"]
+	path = aods3
+	url = https://github.com/lbbe-software/aods3
 [submodule "fitdistrplus"]
 	path = fitdistrplus
 	url = https://github.com/lbbe-software/fitdistrplus
